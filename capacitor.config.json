@@ -1,0 +1,9 @@
+{
+  "appId": "br.com.calculadora3dl.app",
+  "appName": "Calculadora 3DL",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": false
+  }
+}
